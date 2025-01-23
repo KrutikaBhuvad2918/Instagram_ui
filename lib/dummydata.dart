@@ -14,3 +14,12 @@ var post = [
   {"profilepic":"https://images.pexels.com/photos/5601379/pexels-photo-5601379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"joshua_l ","location":"Thailand","postimg":"https://images.pexels.com/photos/28581876/pexels-photo-28581876/free-photo-of-beautiful-tropical-seascape-with-limestone-cliffs.jpeg","likes":"132,635 likes","caption":" Next stop: adventure...","views":"View all 50 comments","time":"5 hours ago"},
 ];
 
+var message = [
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"beauty_of_nature","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"daily_brew","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"aliabhatt ","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"virat.kohli","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"mostlysane","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"cric_legend","lastseen":"Sent 4m ago"},
+];
+
