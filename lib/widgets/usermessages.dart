@@ -13,25 +13,25 @@ class Usermessages extends StatelessWidget {
       onTap: () {
         Navigator.push(
           context, MaterialPageRoute(
-          builder: (context) => Userscreen(user: message)));
+          builder: (context) => Userscreen(user: Message)));
       },
       child: Container(
         // width: 200,
         // height: 100,
         // color: Colors.amber,
-        margin: EdgeInsets.only(bottom: 10, top: 10),
+        margin: EdgeInsets.only(bottom: 15, top: 10),
         child: Row(
           children: [
             Container(
               margin: EdgeInsets.only(left: 20),
               child: CircleAvatar(
-                radius: 38,
+                radius: 32,
                 backgroundImage: NetworkImage("${Message["img"]}"),
               ),
             ),
-            SizedBox(width: 25),
+            SizedBox(width: 20),
             Container(
-              width: 215,
+              width: 200,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -50,6 +50,7 @@ class Usermessages extends StatelessWidget {
                 ],
               ),
             ),
+            SizedBox(width: 35),
             Icon(Icons.camera_alt_outlined, size: 36),
           ],
         ),

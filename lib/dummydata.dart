@@ -16,10 +16,10 @@ var post = [
 
 var message = [
   {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"beauty_of_nature","lastseen":"Sent 4m ago"},
-  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"daily_brew","lastseen":"Sent 4m ago"},
-  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"aliabhatt ","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"daily_brew","lastseen":"Sent 10m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"aliabhatt ","lastseen":"Sent 1m ago"},
   {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"virat.kohli","lastseen":"Sent 4m ago"},
-  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"mostlysane","lastseen":"Sent 4m ago"},
-  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"cric_legend","lastseen":"Sent 4m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"mostlysane","lastseen":"Sent 8m ago"},
+  {"img":"https://images.pexels.com/photos/165754/pexels-photo-165754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","usernm":"cric_legend","lastseen":"Sent 20m ago"},
 ];
 

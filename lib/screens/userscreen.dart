@@ -9,7 +9,10 @@ class Userscreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("$user"),
+        backgroundColor: Colors.grey[400],
+        title: Text(user["usernm"],
+        style: TextStyle(fontWeight: FontWeight.bold),
+        ),
       ),
     );
   }
