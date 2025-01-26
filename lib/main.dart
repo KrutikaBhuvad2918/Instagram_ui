@@ -40,7 +40,6 @@ class Mainscreen extends StatelessWidget {
                 context, MaterialPageRoute(
                   builder: (context) => Message(msg: message)));
             }, icon: Icon(Icons.messenger_outline,size: 30)),
-            // Icon(Icons.send, size: 35),
             SizedBox(width: 10),
           ],
         ),
